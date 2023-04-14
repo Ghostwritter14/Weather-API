@@ -1,0 +1,2 @@
+# What is this project about
+This is a trivial try at building a REST api with python. The data used here is from EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D). It is mainly about temperatures in various weather stations in Europe. 
